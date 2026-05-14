@@ -2,117 +2,81 @@
 
 # Harzva Project Atlas
 
-Harzva 的公开项目地图：把 GitHub 仓库、Release、Pages、Skills 和 fork 统一收纳为一张可自动更新的导航表。
+A download-first MetaRepo for Harzva: APK, EXE, desktop builds, CLI packages, release pages, and the hubs that explain the wider repository system.
 
-[Release Hub](https://github.com/Harzva/harzva-release-hub) · [Pages Hub](https://github.com/Harzva/harzva-pages-hub) · [Skills Hub](https://github.com/Harzva/harzva-skills-hub) · [Owner](https://github.com/Harzva)
+[Live Atlas](https://harzva.github.io/harzva-project-atlas/) | [Release Hub](https://github.com/Harzva/harzva-release-hub) | [Pages Hub](https://github.com/Harzva/harzva-pages-hub) | [Skills Hub](https://github.com/Harzva/harzva-skills-hub)
 
-![Repositories](https://img.shields.io/badge/public_repos-80-111111?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-12-2D9CDB?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-5-F05A28?style=for-the-badge) ![Skills](https://img.shields.io/badge/skills-13-6B8E23?style=for-the-badge)
+![Downloads](https://img.shields.io/badge/artifacts-11-111111?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-6-F05A28?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-15-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
 
 </div>
+
+## Download Map
+
+Downloads are grouped by repository function so APK, EXE, package, archive, and other release assets stay findable as Harzva adds or removes projects.
+
+### Mobile Apps
+
+| Download | Repo | Kind | Version | Size | Downloads | Published |
+|---|---|---:|---:|---:|---:|---:|
+| [gitmarket-android-experimental.apk](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-android-experimental.apk) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Android APK | [v0.1.9](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9) | 4.1 MB | 1 | 2026-05-14 |
+| [gitmarket-ios-simulator.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-ios-simulator.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.1.9](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9) | 205.1 KB | 0 | 2026-05-14 |
+| [mobilecode-ios-simulator-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-ios-simulator-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 49.7 MB | 0 | 2026-05-12 |
+| [mobilecode-site-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 219.6 KB | 0 | 2026-05-12 |
+| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 49.0 MB | 0 | 2026-05-12 |
+
+### Desktop Apps
+
+| Download | Repo | Kind | Version | Size | Downloads | Published |
+|---|---|---:|---:|---:|---:|---:|
+| [gitmarket-macos-aarch64.tar.gz](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-macos-aarch64.tar.gz) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.1.9](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9) | 3.8 MB | 0 | 2026-05-14 |
+| [gitmarket-windows-x86_64.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-windows-x86_64.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.1.9](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9) | 3.6 MB | 1 | 2026-05-14 |
+| [RepoAtlas-v0.5.0-macos-ARM64.tar.gz](https://github.com/Harzva/RepoAtlas/releases/download/v0.5.0/RepoAtlas-v0.5.0-macos-ARM64.tar.gz) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Archive | [v0.5.0](https://github.com/Harzva/RepoAtlas/releases/tag/v0.5.0) | 679.4 KB | 0 | 2026-05-13 |
+| [RepoAtlas-v0.5.0-windows-x64.exe](https://github.com/Harzva/RepoAtlas/releases/download/v0.5.0/RepoAtlas-v0.5.0-windows-x64.exe) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Windows | [v0.5.0](https://github.com/Harzva/RepoAtlas/releases/tag/v0.5.0) | 1.5 MB | 0 | 2026-05-13 |
+
+### CLI and Infrastructure
+
+| Download | Repo | Kind | Version | Size | Downloads | Published |
+|---|---|---:|---:|---:|---:|---:|
+| [gitmarket-linux-x86_64.tar.gz](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-linux-x86_64.tar.gz) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.1.9](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9) | 5.3 MB | 0 | 2026-05-14 |
+
+### AI Agent Systems
+
+| Download | Repo | Kind | Version | Size | Downloads | Published |
+|---|---|---:|---:|---:|---:|---:|
+| [codex-managed-agent-1.0.3.vsix](https://github.com/Harzva/codex-managed-agent/releases/download/v1.0.3/codex-managed-agent-1.0.3.vsix) | [codex-managed-agent](https://github.com/Harzva/codex-managed-agent) | Release Asset | [v1.0.3](https://github.com/Harzva/codex-managed-agent/releases/tag/v1.0.3) | 457.8 KB | 1 | 2026-04-16 |
+
+## Release Pages Without Direct Assets
+
+| Repository | Latest release | Published | Description |
+|---|---:|---:|---|
+| [github-management-suite](https://github.com/Harzva/github-management-suite) | [v0.2.0](https://github.com/Harzva/github-management-suite/releases/tag/v0.2.0) | 2026-05-14 | Cross-platform Codex skill for full GitHub repository lifecycle management |
+| [learn-likecc](https://github.com/Harzva/learn-likecc) | [v1.0.2-likecode](https://github.com/Harzva/learn-likecc/releases/tag/v1.0.2-likecode) | 2026-04-07 | Claude Code 源码逆向恢复项目 \| Source Map 逆向 · 架构分析 · 可运行版本 \| 1900+ 文件 · 51万行代码 · 12章节课程 |
 
 ## Meta Hubs
 
 | Hub | Purpose |
 |---|---|
-| [harzva-release-hub](https://github.com/Harzva/harzva-release-hub) | Latest releases, downloadable artifacts, and version entry points. |
-| [harzva-pages-hub](https://github.com/Harzva/harzva-pages-hub) | A visual gallery of every detected GitHub Pages site and demo. |
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Codex skills, workflow skills, and agent operating recipes. |
+| [harzva-release-hub](https://github.com/Harzva/harzva-release-hub) | Release-level details and version history. |
+| [harzva-pages-hub](https://github.com/Harzva/harzva-pages-hub) | Visual gallery of GitHub Pages sites and demos. |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Codex skills and workflow recipes. |
 
-## Category Index
+## Repository Categories
 
 | Category | Repositories |
 |---|---:|
-| AI Agents and LLM Systems | 10 |
-| Pages and Live Demos | 11 |
-| Skills and Agent Workflows | 11 |
+| AI Agents and LLM Systems | 9 |
+| Pages and Live Demos | 12 |
+| Release-ready Apps and Tools | 1 |
+| Skills and Agent Workflows | 17 |
 | Developer Tools and Infrastructure | 1 |
 | Knowledge Maps and Learning | 2 |
-| Research, Data, and Experiments | 6 |
+| Research, Data, and Experiments | 7 |
 | Labs and Utilities | 4 |
-
-## AI Agents and LLM Systems
-
-| Repository | Language | Stars | Forks | Updated | Description |
-|---|---:|---:|---:|---:|---|
-| [HyperMemory](https://github.com/Harzva/HyperMemory) | Java | 0 | 0 | 2026-05-12 | Memory-enhanced AI knowledge system with RAG, Agent, Wiki, GBrain, hierarchy memory, and hyper memory |
-| [CampusRAG-QA](https://github.com/Harzva/CampusRAG-QA) | Java | 0 | 0 | 2026-05-12 | Campus knowledge QA baseline with switchable RAG and Wiki modes |
-| [Harzva](https://github.com/Harzva/Harzva) | Mixed | 0 | 0 | 2026-05-11 | GitHub profile entrance for Harzva: making coding agents cheaper, AI Agent infrastructure, vision-language research, papers, and portfolio. |
-| [keep-claude-cheaper](https://github.com/Harzva/keep-claude-cheaper) | Mixed | 0 | 0 | 2026-05-08 |  |
-| [agent-lens-vscode-extension](https://github.com/Harzva/agent-lens-vscode-extension) | JavaScript | 0 | 0 | 2026-05-08 | A simple VS Code extension scaffold for Agent Lens preview harness. |
-| [agent-hud](https://github.com/Harzva/agent-hud) | JavaScript | 1 | 0 | 2026-04-20 |  |
-| [codex-managed-agent](https://github.com/Harzva/codex-managed-agent) | JavaScript | 102 | 24 | 2026-04-17 |  |
-| [meta-agent](https://github.com/Harzva/meta-agent) | Mixed | 0 | 0 | 2026-04-09 | Reserved placeholder repository under the Harzva account. |
-| [metaagent](https://github.com/Harzva/metaagent) | Mixed | 0 | 0 | 2026-04-09 | Reserved placeholder repository under the Harzva account. |
-| [agent-control-plane](https://github.com/Harzva/agent-control-plane) | Mixed | 0 | 0 | 2026-04-09 | Reserved placeholder repository under the Harzva account. |
-
-## Pages and Live Demos
-
-| Repository | Language | Stars | Forks | Updated | Description |
-|---|---:|---:|---:|---:|---|
-| [mobilecode](https://github.com/Harzva/mobilecode) | Dart | 0 | 0 | 2026-05-14 | MobileCode - AI coding workspace for mobile devices |
-| [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Rust | 0 | 0 | 2026-05-14 | GitHub/Gitee APK discovery and release download tool |
-| [catop-cachehit](https://github.com/Harzva/catop-cachehit) | Python | 0 | 0 | 2026-05-14 | A top-like terminal monitor for LLM cache hits, cached tokens, and estimated dollars saved. |
-| [learn-likecc](https://github.com/Harzva/learn-likecc) | TypeScript | 180 | 38 | 2026-05-14 | Claude Code 源码逆向恢复项目 \| Source Map 逆向 · 架构分析 · 可运行版本 \| 1900+ 文件 · 51万行代码 · 12章节课程 |
-| [WellAgentPets](https://github.com/Harzva/WellAgentPets) | CSS | 0 | 0 | 2026-05-14 | Unofficial Claude and Agent pet SVG gallery with GitHub Pages wall |
-| [Agent-Job-Interview](https://github.com/Harzva/Agent-Job-Interview) | TypeScript | 0 | 0 | 2026-05-14 | Agent job interview roadmap and practice training suite. |
-| [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Rust | 0 | 0 | 2026-05-13 | RepoAtlas maps multiple GitHub accounts to local Git checkouts, context categories, sync drift, and desktop folder actions. |
-| [everything-in-github](https://github.com/Harzva/everything-in-github) | TypeScript | 0 | 0 | 2026-05-13 | 综合 GitHub 资源收集仓库 - 成就徽章、个人资料工具、自动化工作流、社区活动、数据可视化 |
-| [ChinaAI-Roadmaps](https://github.com/Harzva/ChinaAI-Roadmaps) | TypeScript | 0 | 0 | 2026-05-12 | Technical roadmaps for China's open and open-weight LLM companies: GLM, Kimi, DeepSeek, MiniMax |
-| [Harzva.github.io](https://github.com/Harzva/Harzva.github.io) | JavaScript | 0 | 0 | 2026-05-11 | Personal portfolio, papers, Agent projects, and article collections. |
-| [Harzva--personal](https://github.com/Harzva/Harzva--personal) | HTML | 0 | 0 | 2021-01-16 | harzva's personal Personal Homepage |
-
-## Skills and Agent Workflows
-
-| Repository | Language | Stars | Forks | Updated | Description |
-|---|---:|---:|---:|---:|---|
-| [ReadmeShowcaseScreenshot-Skill](https://github.com/Harzva/ReadmeShowcaseScreenshot-Skill) | JavaScript | 0 | 0 | 2026-05-14 | Codex skill for README-ready screenshots, GIFs, videos, hero images, and preview galleries. |
-| [github-management-suite](https://github.com/Harzva/github-management-suite) | Python | 0 | 0 | 2026-05-14 | Cross-platform Codex skill for full GitHub repository lifecycle management |
-| [gh-actions-release-builder](https://github.com/Harzva/gh-actions-release-builder) | Mixed | 0 | 0 | 2026-05-13 | Codex skill for professional GitHub Actions build, package, artifact, and release workflows |
-| [CampusAgent-QA](https://github.com/Harzva/CampusAgent-QA) | Java | 0 | 0 | 2026-05-12 | Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills |
-| [gh-account-router](https://github.com/Harzva/gh-account-router) | Python | 0 | 0 | 2026-05-12 | Codex skill and CLI helper for routing gh commands across GitHub accounts |
-| [everything-agent-cli-to-claude-code](https://github.com/Harzva/everything-agent-cli-to-claude-code) | Shell | 0 | 0 | 2026-04-23 | Umbrella repo for agent CLI to Claude Code adapters, templates, and plugin registry. |
-| [gen-zhihu-article-skill](https://github.com/Harzva/gen-zhihu-article-skill) | Mixed | 0 | 0 | 2026-04-11 |  |
-| [zhihu-publish-skill](https://github.com/Harzva/zhihu-publish-skill) | Mixed | 0 | 0 | 2026-04-11 |  |
-| [webpage-screenshot-md-skill](https://github.com/Harzva/webpage-screenshot-md-skill) | JavaScript | 0 | 0 | 2026-04-10 |  |
-| [loloop-skill](https://github.com/Harzva/loloop-skill) | Mixed | 0 | 0 | 2026-04-10 |  |
-| [copilot-plugin-cc](https://github.com/Harzva/copilot-plugin-cc) | Shell | 0 | 0 | 2026-04-07 | copilot-plugin-cc placeholder repository for Claude Code adapter work. |
-
-## Developer Tools and Infrastructure
-
-| Repository | Language | Stars | Forks | Updated | Description |
-|---|---:|---:|---:|---:|---|
-| [wemedia](https://github.com/Harzva/wemedia) | JavaScript | 0 | 0 | 2026-04-08 | Sanitized automation toolkit for Zhihu and WeChat publishing workflows |
-
-## Knowledge Maps and Learning
-
-| Repository | Language | Stars | Forks | Updated | Description |
-|---|---:|---:|---:|---:|---|
-| [ActiveLearning](https://github.com/Harzva/ActiveLearning) | Python | 0 | 0 | 2021-01-20 |  |
-| [Awesome-Bayesian-Meta-learning](https://github.com/Harzva/Awesome-Bayesian-Meta-learning) | Mixed | 1 | 0 | 2020-10-31 | Meta-learning about Bayesian |
-
-## Research, Data, and Experiments
-
-| Repository | Language | Stars | Forks | Updated | Description |
-|---|---:|---:|---:|---:|---|
-| [DistFilter](https://github.com/Harzva/DistFilter) | Python | 0 | 0 | 2025-12-02 |  |
-| [my_INSTALL](https://github.com/Harzva/my_INSTALL) | Python | 1 | 0 | 2022-08-23 |  |
-| [police_car](https://github.com/Harzva/police_car) | MATLAB | 0 | 0 | 2022-08-17 |  |
-| [One-Shot-Object-Detection](https://github.com/Harzva/One-Shot-Object-Detection) | Python | 1 | 0 | 2022-05-27 |  |
-| [gigavision](https://github.com/Harzva/gigavision) | Python | 3 | 2 | 2021-01-24 |  |
-| [cangku2](https://github.com/Harzva/cangku2) | Python | 0 | 0 | 2019-09-17 | test |
-
-## Labs and Utilities
-
-| Repository | Language | Stars | Forks | Updated | Description |
-|---|---:|---:|---:|---:|---|
-| [ml](https://github.com/Harzva/ml) | Mixed | 0 | 0 | 2022-10-24 | ml_tutorial |
-| [coae](https://github.com/Harzva/coae) | Mixed | 0 | 0 | 2022-08-17 |  |
-| [FindWork](https://github.com/Harzva/FindWork) | Mixed | 0 | 0 | 2022-07-16 |  |
-| [pocket](https://github.com/Harzva/pocket) | Mixed | 0 | 0 | 2019-04-22 |  |
+| Forks | 35 |
 
 ## Forks
 
-Forked repositories are kept at the tail so original Harzva projects remain easy to scan.
+Forked repositories are kept at the tail so Harzva-owned work and downloadable products remain easy to scan.
 
 | Repository | Language | Stars | Forks | Updated | Description |
 |---|---:|---:|---:|---:|---|
@@ -154,11 +118,11 @@ Forked repositories are kept at the tail so original Harzva projects remain easy
 
 ## Auto Update
 
-This repository is designed to refresh itself with GitHub Actions.
+This MetaRepo refreshes itself with GitHub Actions.
 
 - Schedule: daily, plus manual `workflow_dispatch`.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-05-14T09:19:54.481549+00:00`.
+- Generated at: `2026-05-14T14:47:23.729515+00:00`.
 - Private repositories omitted from this public output: `13`.

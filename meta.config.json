@@ -2,7 +2,7 @@
   "owner": "Harzva",
   "mode": "atlas",
   "title": "harzva-project-atlas",
-  "description": "Harzva project atlas: auto-updating classified index of public repositories, hubs, pages, releases, skills, and forks.",
+  "description": "Harzva project atlas: auto-updating download map for APK, EXE, package, archive, and release asset links.",
   "includePrivate": false,
   "privateOmitted": 13,
   "hubLinks": {
