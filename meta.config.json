@@ -1,0 +1,14 @@
+{
+  "owner": "Harzva",
+  "mode": "atlas",
+  "title": "harzva-project-atlas",
+  "description": "Harzva project atlas: auto-updating classified index of public repositories, hubs, pages, releases, skills, and forks.",
+  "includePrivate": false,
+  "privateOmitted": 13,
+  "hubLinks": {
+    "atlas": "https://github.com/Harzva/harzva-project-atlas",
+    "release": "https://github.com/Harzva/harzva-release-hub",
+    "pages": "https://github.com/Harzva/harzva-pages-hub",
+    "skills": "https://github.com/Harzva/harzva-skills-hub"
+  }
+}

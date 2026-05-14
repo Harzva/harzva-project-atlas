@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Harzva Project Atlas</title>
+  <style>
+    :root { --ink:#171717; --paper:#fbfbf7; --leaf:#b7e35f; --red:#ee4938; --line:#171717; }
+    * { box-sizing:border-box; }
+    body { margin:0; color:var(--ink); background:var(--paper); font-family: ui-serif, Georgia, "Times New Roman", serif; }
+    header { min-height:78vh; display:grid; align-content:center; padding:8vw 6vw; border-bottom:2px solid var(--line); background:linear-gradient(115deg, var(--paper) 0 62%, var(--leaf) 62%); }
+    h1 { font-size:clamp(54px, 11vw, 150px); line-height:.86; letter-spacing:0; margin:0 0 20px; }
+    p { max-width:760px; font-size:22px; line-height:1.25; }
+    .stats { display:flex; flex-wrap:wrap; gap:12px; margin-top:24px; }
+    .stats span, .map li { border:2px solid var(--line); background:white; padding:12px 14px; box-shadow:5px 5px 0 var(--line); }
+    .map { padding:42px 6vw; display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:14px; list-style:none; margin:0; }
+    .map li { display:flex; justify-content:space-between; font-weight:800; }
+    .featured { padding:0 6vw 70px; display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:18px; }
+    .repo-card { border:2px solid var(--line); background:white; box-shadow:6px 6px 0 var(--line); }
+    .shot { display:block; aspect-ratio:1200/630; overflow:hidden; border-bottom:2px solid var(--line); }
+    .shot img { width:100%; height:100%; object-fit:cover; }
+    .repo-copy { padding:16px; }
+    .kicker { font:700 12px ui-monospace,Menlo,monospace; text-transform:uppercase; }
+    h2 { margin:0; font-size:24px; line-height:1.05; }
+    .card-links { display:flex; gap:12px; font-weight:800; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Harzva Project Atlas</h1>
+    <p>One owner, many surfaces: repositories, releases, pages, skills, experiments, and forks gathered into a daily refreshed map.</p>
+    <div class="stats"><span>80 public repositories</span><span>12 pages</span><span>5 releases</span><span>13 skills</span></div>
+  </header>
+  <ol class="map"><li><strong>AI Agents and LLM Systems</strong><span>10</span></li>
+<li><strong>Pages and Live Demos</strong><span>11</span></li>
+<li><strong>Skills and Agent Workflows</strong><span>11</span></li>
+<li><strong>Developer Tools and Infrastructure</strong><span>1</span></li>
+<li><strong>Knowledge Maps and Learning</strong><span>2</span></li>
+<li><strong>Research, Data, and Experiments</strong><span>6</span></li>
+<li><strong>Labs and Utilities</strong><span>4</span></li>
+<li><strong>Forks</strong><span>35</span></li></ol>
+  <section class="featured">
+      <article class="repo-card" data-kind="Knowledge Maps and Learning">
+        <a class="shot" href="https://github.com/Harzva/ActiveLearning"><img src="https://opengraph.githubassets.com/meta/Harzva/ActiveLearning" alt="ActiveLearning preview" loading="lazy"></a>
+        <div class="repo-copy">
+          <p class="kicker">Python</p>
+          <h2><a href="https://github.com/Harzva/ActiveLearning">ActiveLearning</a></h2>
+          <p>No description yet.</p>
+          <div class="card-links">
+            <a href="https://github.com/Harzva/ActiveLearning">Repository</a>
+            <a href="https://github.com/Harzva/ActiveLearning">Live</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="repo-card" data-kind="AI Agents and LLM Systems">
+        <a class="shot" href="https://github.com/Harzva/agent-control-plane"><img src="https://opengraph.githubassets.com/meta/Harzva/agent-control-plane" alt="agent-control-plane preview" loading="lazy"></a>
+        <div class="repo-copy">
+          <p class="kicker">Mixed</p>
+          <h2><a href="https://github.com/Harzva/agent-control-plane">agent-control-plane</a></h2>
+          <p>Reserved placeholder repository under the Harzva account.</p>
+          <div class="card-links">
+            <a href="https://github.com/Harzva/agent-control-plane">Repository</a>
+            <a href="https://github.com/Harzva/agent-control-plane">Live</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="repo-card" data-kind="AI Agents and LLM Systems">
+        <a class="shot" href="https://github.com/Harzva/agent-hud"><img src="https://opengraph.githubassets.com/meta/Harzva/agent-hud" alt="agent-hud preview" loading="lazy"></a>
+        <div class="repo-copy">
+          <p class="kicker">JavaScript</p>
+          <h2><a href="https://github.com/Harzva/agent-hud">agent-hud</a></h2>
+          <p>No description yet.</p>
+          <div class="card-links">
+            <a href="https://github.com/Harzva/agent-hud">Repository</a>
+            <a href="https://github.com/Harzva/agent-hud">Live</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="repo-card" data-kind="Pages and Live Demos">
+        <a class="shot" href="https://harzva.github.io/Agent-Job-Interview/"><img src="https://opengraph.githubassets.com/meta/Harzva/Agent-Job-Interview" alt="Agent-Job-Interview preview" loading="lazy"></a>
+        <div class="repo-copy">
+          <p class="kicker">TypeScript</p>
+          <h2><a href="https://harzva.github.io/Agent-Job-Interview/">Agent-Job-Interview</a></h2>
+          <p>Agent job interview roadmap and practice training suite.</p>
+          <div class="card-links">
+            <a href="https://github.com/Harzva/Agent-Job-Interview">Repository</a>
+            <a href="https://harzva.github.io/Agent-Job-Interview/">Live</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="repo-card" data-kind="AI Agents and LLM Systems">
+        <a class="shot" href="https://github.com/Harzva/agent-lens-vscode-extension"><img src="https://opengraph.githubassets.com/meta/Harzva/agent-lens-vscode-extension" alt="agent-lens-vscode-extension preview" loading="lazy"></a>
+        <div class="repo-copy">
+          <p class="kicker">JavaScript</p>
+          <h2><a href="https://github.com/Harzva/agent-lens-vscode-extension">agent-lens-vscode-extension</a></h2>
+          <p>A simple VS Code extension scaffold for Agent Lens preview harness.</p>
+          <div class="card-links">
+            <a href="https://github.com/Harzva/agent-lens-vscode-extension">Repository</a>
+            <a href="https://github.com/Harzva/agent-lens-vscode-extension">Live</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="repo-card" data-kind="Knowledge Maps and Learning">
+        <a class="shot" href="https://github.com/Harzva/Awesome-Bayesian-Meta-learning"><img src="https://opengraph.githubassets.com/meta/Harzva/Awesome-Bayesian-Meta-learning" alt="Awesome-Bayesian-Meta-learning preview" loading="lazy"></a>
+        <div class="repo-copy">
+          <p class="kicker">Mixed</p>
+          <h2><a href="https://github.com/Harzva/Awesome-Bayesian-Meta-learning">Awesome-Bayesian-Meta-learning</a></h2>
+          <p>Meta-learning about Bayesian</p>
+          <div class="card-links">
+            <a href="https://github.com/Harzva/Awesome-Bayesian-Meta-learning">Repository</a>
+            <a href="https://github.com/Harzva/Awesome-Bayesian-Meta-learning">Live</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="repo-card" data-kind="Skills and Agent Workflows">
+        <a class="shot" href="https://harzva.github.io/CampusAgent-QA/"><img src="https://opengraph.githubassets.com/meta/Harzva/CampusAgent-QA" alt="CampusAgent-QA preview" loading="lazy"></a>
+        <div class="repo-copy">
+          <p class="kicker">skill / Java</p>
+          <h2><a href="https://harzva.github.io/CampusAgent-QA/">CampusAgent-QA</a></h2>
+          <p>Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills</p>
+          <div class="card-links">
+            <a href="https://github.com/Harzva/CampusAgent-QA">Repository</a>
+            <a href="https://harzva.github.io/CampusAgent-QA/">Live</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="repo-card" data-kind="AI Agents and LLM Systems">
+        <a class="shot" href="https://github.com/Harzva/CampusRAG-QA"><img src="https://opengraph.githubassets.com/meta/Harzva/CampusRAG-QA" alt="CampusRAG-QA preview" loading="lazy"></a>
+        <div class="repo-copy">
+          <p class="kicker">Java</p>
+          <h2><a href="https://github.com/Harzva/CampusRAG-QA">CampusRAG-QA</a></h2>
+          <p>Campus knowledge QA baseline with switchable RAG and Wiki modes</p>
+          <div class="card-links">
+            <a href="https://github.com/Harzva/CampusRAG-QA">Repository</a>
+            <a href="https://github.com/Harzva/CampusRAG-QA">Live</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="repo-card" data-kind="Research, Data, and Experiments">
+        <a class="shot" href="https://github.com/Harzva/cangku2"><img src="https://opengraph.githubassets.com/meta/Harzva/cangku2" alt="cangku2 preview" loading="lazy"></a>
+        <div class="repo-copy">
+          <p class="kicker">Python</p>
+          <h2><a href="https://github.com/Harzva/cangku2">cangku2</a></h2>
+          <p>test</p>
+          <div class="card-links">
+            <a href="https://github.com/Harzva/cangku2">Repository</a>
+            <a href="https://github.com/Harzva/cangku2">Live</a>
+          </div>
+        </div>
+      </article></section>
+</body>
+</html>
