@@ -6,7 +6,7 @@ A download-first MetaRepo for Harzva: APK, EXE, desktop builds, CLI packages, re
 
 [Live Atlas](https://harzva.github.io/harzva-project-atlas/) | [Release Hub](https://github.com/Harzva/harzva-release-hub) | [Pages Hub](https://github.com/Harzva/harzva-pages-hub) | [Skills Hub](https://github.com/Harzva/harzva-skills-hub)
 
-![Downloads](https://img.shields.io/badge/artifacts-11-111111?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-6-F05A28?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-15-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
+![Downloads](https://img.shields.io/badge/artifacts-11-111111?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-6-F05A28?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-17-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
 
 </div>
 
@@ -19,19 +19,19 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | Download | Repo | Kind | Version | Size | Downloads | Published |
 |---|---|---:|---:|---:|---:|---:|
 | [gitmarket-android-experimental.apk](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-android-experimental.apk) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Android APK | [v0.1.9](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9) | 4.1 MB | 1 | 2026-05-14 |
-| [gitmarket-ios-simulator.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-ios-simulator.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.1.9](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9) | 205.1 KB | 0 | 2026-05-14 |
-| [mobilecode-ios-simulator-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-ios-simulator-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 49.7 MB | 0 | 2026-05-12 |
-| [mobilecode-site-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 219.6 KB | 0 | 2026-05-12 |
-| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 49.0 MB | 0 | 2026-05-12 |
+| [gitmarket-ios-simulator.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-ios-simulator.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.1.9](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9) | 205.1 KB | 1 | 2026-05-14 |
+| [mobilecode-ios-simulator-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-ios-simulator-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.4 MB | 0 | 2026-05-12 |
+| [mobilecode-site-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 219.6 KB | 1 | 2026-05-12 |
+| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 49.5 MB | 0 | 2026-05-12 |
 
 ### Desktop Apps
 
 | Download | Repo | Kind | Version | Size | Downloads | Published |
 |---|---|---:|---:|---:|---:|---:|
+| [RepoAtlas-v0.5.1-macos-ARM64.tar.gz](https://github.com/Harzva/RepoAtlas/releases/download/v0.5.1/RepoAtlas-v0.5.1-macos-ARM64.tar.gz) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Archive | [v0.5.1](https://github.com/Harzva/RepoAtlas/releases/tag/v0.5.1) | 698.1 KB | 0 | 2026-05-14 |
+| [RepoAtlas-v0.5.1-windows-x64.exe](https://github.com/Harzva/RepoAtlas/releases/download/v0.5.1/RepoAtlas-v0.5.1-windows-x64.exe) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Windows | [v0.5.1](https://github.com/Harzva/RepoAtlas/releases/tag/v0.5.1) | 1.6 MB | 0 | 2026-05-14 |
 | [gitmarket-macos-aarch64.tar.gz](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-macos-aarch64.tar.gz) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.1.9](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9) | 3.8 MB | 0 | 2026-05-14 |
-| [gitmarket-windows-x86_64.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-windows-x86_64.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.1.9](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9) | 3.6 MB | 1 | 2026-05-14 |
-| [RepoAtlas-v0.5.0-macos-ARM64.tar.gz](https://github.com/Harzva/RepoAtlas/releases/download/v0.5.0/RepoAtlas-v0.5.0-macos-ARM64.tar.gz) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Archive | [v0.5.0](https://github.com/Harzva/RepoAtlas/releases/tag/v0.5.0) | 679.4 KB | 0 | 2026-05-13 |
-| [RepoAtlas-v0.5.0-windows-x64.exe](https://github.com/Harzva/RepoAtlas/releases/download/v0.5.0/RepoAtlas-v0.5.0-windows-x64.exe) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Windows | [v0.5.0](https://github.com/Harzva/RepoAtlas/releases/tag/v0.5.0) | 1.5 MB | 0 | 2026-05-13 |
+| [gitmarket-windows-x86_64.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-windows-x86_64.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.1.9](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9) | 3.6 MB | 2 | 2026-05-14 |
 
 ### CLI and Infrastructure
 
@@ -64,13 +64,13 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 
 | Category | Repositories |
 |---|---:|
-| AI Agents and LLM Systems | 9 |
-| Pages and Live Demos | 12 |
+| AI Agents and LLM Systems | 10 |
+| Pages and Live Demos | 14 |
 | Release-ready Apps and Tools | 1 |
-| Skills and Agent Workflows | 17 |
+| Skills and Agent Workflows | 18 |
 | Developer Tools and Infrastructure | 1 |
 | Knowledge Maps and Learning | 2 |
-| Research, Data, and Experiments | 7 |
+| Research, Data, and Experiments | 6 |
 | Labs and Utilities | 4 |
 | Forks | 35 |
 
@@ -124,5 +124,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-05-14T14:47:23.729515+00:00`.
+- Generated at: `2026-05-15T06:42:29.307480+00:00`.
 - Private repositories omitted from this public output: `13`.
