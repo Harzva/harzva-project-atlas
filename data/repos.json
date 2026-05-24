@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-05-22T05:13:26Z",
-    "updatedAt": "2026-05-22T05:13:31Z",
+    "pushedAt": "2026-05-24T05:12:30Z",
+    "updatedAt": "2026-05-24T05:12:34Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -524,14 +524,14 @@
       "name": "JavaScript"
     },
     "pushedAt": "2026-05-20T03:13:51Z",
-    "updatedAt": "2026-05-21T08:20:33Z",
+    "updatedAt": "2026-05-22T11:47:05Z",
     "createdAt": "2026-04-13T14:39:15Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 89,
-    "forkCount": 22,
+    "stargazerCount": 88,
+    "forkCount": 21,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codex-managed-agent",
     "pages": {
@@ -1102,8 +1102,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-21T07:01:58Z",
-    "updatedAt": "2026-05-21T07:02:02Z",
+    "pushedAt": "2026-05-23T06:20:12Z",
+    "updatedAt": "2026-05-23T06:20:16Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1136,8 +1136,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-21T07:01:18Z",
-    "updatedAt": "2026-05-21T07:01:23Z",
+    "pushedAt": "2026-05-22T06:57:23Z",
+    "updatedAt": "2026-05-22T06:57:26Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1170,8 +1170,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-21T07:03:27Z",
-    "updatedAt": "2026-05-21T07:03:32Z",
+    "pushedAt": "2026-05-23T06:21:21Z",
+    "updatedAt": "2026-05-23T06:21:25Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1204,8 +1204,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-21T07:01:51Z",
-    "updatedAt": "2026-05-21T07:01:55Z",
+    "pushedAt": "2026-05-23T06:20:03Z",
+    "updatedAt": "2026-05-23T06:20:07Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1330,15 +1330,15 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-05-22T04:42:22Z",
-    "updatedAt": "2026-05-22T04:42:26Z",
+    "pushedAt": "2026-05-24T04:45:54Z",
+    "updatedAt": "2026-05-24T04:45:57Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 166,
-    "forkCount": 37,
+    "stargazerCount": 165,
+    "forkCount": 36,
     "repositoryTopics": [
       "agent-loop",
       "ai-coding",
@@ -1520,14 +1520,14 @@
     "primaryLanguage": {
       "name": "Dart"
     },
-    "pushedAt": "2026-05-22T05:35:44Z",
-    "updatedAt": "2026-05-22T06:02:51Z",
+    "pushedAt": "2026-05-23T11:20:17Z",
+    "updatedAt": "2026-05-23T14:02:11Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
       "name": "last"
     },
     "homepageUrl": "",
-    "stargazerCount": 90,
+    "stargazerCount": 130,
     "forkCount": 6,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
