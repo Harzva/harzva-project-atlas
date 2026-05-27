@@ -68,7 +68,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | AI Agents and LLM Systems | 11 |
 | Pages and Live Demos | 14 |
 | Release-ready Apps and Tools | 1 |
-| Skills and Agent Workflows | 19 |
+| Skills and Agent Workflows | 20 |
 | Developer Tools and Infrastructure | 1 |
 | Knowledge Maps and Learning | 2 |
 | Research, Data, and Experiments | 6 |
@@ -125,5 +125,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-05-26T06:56:07.536443+00:00`.
+- Generated at: `2026-05-27T07:14:10.067421+00:00`.
 - Private repositories omitted from this public output: `13`.
