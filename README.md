@@ -6,7 +6,7 @@ A download-first MetaRepo for Harzva: APK, EXE, desktop builds, CLI packages, re
 
 [Live Atlas](https://harzva.github.io/harzva-project-atlas/) | [Release Hub](https://github.com/Harzva/harzva-release-hub) | [Pages Hub](https://github.com/Harzva/harzva-pages-hub) | [Skills Hub](https://github.com/Harzva/harzva-skills-hub)
 
-![Downloads](https://img.shields.io/badge/artifacts-12-111111?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-6-F05A28?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-18-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
+![Downloads](https://img.shields.io/badge/artifacts-12-111111?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-6-F05A28?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-19-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
 
 </div>
 
@@ -31,7 +31,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | [gitmarket-macos-aarch64.tar.gz](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.5/gitmarket-macos-aarch64.tar.gz) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.5](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.5) | 14.8 MB | 0 | 2026-05-21 |
 | [gitmarket-macos-x86_64.tar.gz](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.5/gitmarket-macos-x86_64.tar.gz) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.5](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.5) | 14.8 MB | 0 | 2026-05-21 |
 | [gitmarket-windows-x86_64.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.5/gitmarket-windows-x86_64.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.5](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.5) | 14.5 MB | 0 | 2026-05-21 |
-| [RepoAtlas-v0.6.6-macos-ARM64.tar.gz](https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Archive | [v0.6.6](https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.6) | 757.4 KB | 1 | 2026-05-21 |
+| [RepoAtlas-v0.6.6-macos-ARM64.tar.gz](https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Archive | [v0.6.6](https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.6) | 757.4 KB | 2 | 2026-05-21 |
 | [RepoAtlas-v0.6.6-windows-x64.exe](https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-windows-x64.exe) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Windows | [v0.6.6](https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.6) | 1.9 MB | 2 | 2026-05-21 |
 
 ### CLI and Infrastructure
@@ -65,10 +65,10 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 
 | Category | Repositories |
 |---|---:|
-| AI Agents and LLM Systems | 12 |
-| Pages and Live Demos | 14 |
+| AI Agents and LLM Systems | 13 |
+| Pages and Live Demos | 15 |
 | Release-ready Apps and Tools | 1 |
-| Skills and Agent Workflows | 21 |
+| Skills and Agent Workflows | 22 |
 | Developer Tools and Infrastructure | 1 |
 | Knowledge Maps and Learning | 2 |
 | Research, Data, and Experiments | 6 |
@@ -125,5 +125,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-06-03T08:28:39.377884+00:00`.
+- Generated at: `2026-06-04T08:00:55.614017+00:00`.
 - Private repositories omitted from this public output: `13`.
