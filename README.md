@@ -22,7 +22,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | [gitmarket-ios-simulator.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-ios-simulator.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.8](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.8) | 652.8 KB | 0 | 2026-06-21 |
 | [mobilecode-ios-simulator-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-ios-simulator-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.4 MB | 0 | 2026-05-12 |
 | [mobilecode-site-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 219.6 KB | 2 | 2026-05-12 |
-| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.6 MB | 18 | 2026-05-12 |
+| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.6 MB | 19 | 2026-05-12 |
 
 ### Desktop Apps
 
@@ -69,7 +69,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 
 | Category | Repositories |
 |---|---:|
-| AI Agents and LLM Systems | 13 |
+| AI Agents and LLM Systems | 14 |
 | Pages and Live Demos | 18 |
 | Release-ready Apps and Tools | 1 |
 | Skills and Agent Workflows | 25 |
@@ -85,10 +85,10 @@ Forked repositories are kept at the tail so Harzva-owned work and downloadable p
 
 | Repository | Language | Stars | Forks | Updated | Description |
 |---|---:|---:|---:|---:|---|
+| [make-agents-cheaper](https://github.com/Harzva/make-agents-cheaper) | Python | 0 | 0 | 2026-06-25 | Rust CLI for improving prompt cache hit rate in coding-agent workflows |
 | [Oh-Reflective-loop-skills](https://github.com/Harzva/Oh-Reflective-loop-skills) | Python | 0 | 0 | 2026-06-22 |  |
 | [image2_UI_skill](https://github.com/Harzva/image2_UI_skill) | Mixed | 0 | 0 | 2026-05-12 |  |
 | [like-code](https://github.com/Harzva/like-code) | TypeScript | 0 | 0 | 2026-05-12 | A customized Claude Code fork for routed models, multi-agent orchestration, and dense terminal control. |
-| [make-agents-cheaper](https://github.com/Harzva/make-agents-cheaper) | Mixed | 0 | 0 | 2026-05-11 | Rust CLI for improving prompt cache hit rate in coding-agent workflows |
 | [LDC](https://github.com/Harzva/LDC) | Mixed | 0 | 0 | 2025-03-16 | The code of "Logits DeConfusion with CLIP for Few-Shot Learning" (CVPR 2025) |
 | [CMeKGCrawler](https://github.com/Harzva/CMeKGCrawler) | Mixed | 0 | 0 | 2022-06-29 | Medical Graph for Neo4j |
 | [Focal-Loss-Pytorch](https://github.com/Harzva/Focal-Loss-Pytorch) | Mixed | 0 | 0 | 2022-06-08 | 全中文注释.(The loss function of retinanet  based on pytorch).(You can use it on one-stage detection task or classifical task, to solve  data imbalance influence).用于one-stage目标检测算法,提升检测效果.你也可以在分类任务中使用该损失函数,解决数据不平衡问题. |
@@ -129,5 +129,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-06-24T06:56:35.656806+00:00`.
+- Generated at: `2026-06-25T06:56:17.854637+00:00`.
 - Private repositories omitted from this public output: `13`.
