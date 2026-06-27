@@ -22,7 +22,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | [gitmarket-ios-simulator.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-ios-simulator.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.8](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.8) | 652.8 KB | 0 | 2026-06-21 |
 | [mobilecode-ios-simulator-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-ios-simulator-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.4 MB | 0 | 2026-05-12 |
 | [mobilecode-site-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 219.6 KB | 2 | 2026-05-12 |
-| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.6 MB | 20 | 2026-05-12 |
+| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.6 MB | 22 | 2026-05-12 |
 
 ### Desktop Apps
 
@@ -31,7 +31,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | [gitmarket-macos-aarch64.tar.gz](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-macos-aarch64.tar.gz) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.8](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.8) | 14.8 MB | 0 | 2026-06-21 |
 | [gitmarket-macos-x86_64.tar.gz](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-macos-x86_64.tar.gz) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.8](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.8) | 14.8 MB | 0 | 2026-06-21 |
 | [gitmarket-windows-x86_64.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-windows-x86_64.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.8](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.8) | 14.6 MB | 0 | 2026-06-21 |
-| [RepoAtlas-v0.6.6-macos-ARM64.tar.gz](https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Archive | [v0.6.6](https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.6) | 757.4 KB | 4 | 2026-05-21 |
+| [RepoAtlas-v0.6.6-macos-ARM64.tar.gz](https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Archive | [v0.6.6](https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.6) | 757.4 KB | 5 | 2026-05-21 |
 | [RepoAtlas-v0.6.6-windows-x64.exe](https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-windows-x64.exe) | [RepoAtlas](https://github.com/Harzva/RepoAtlas) | Windows | [v0.6.6](https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.6) | 1.9 MB | 3 | 2026-05-21 |
 
 ### CLI and Infrastructure
@@ -77,7 +77,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | Knowledge Maps and Learning | 2 |
 | Research, Data, and Experiments | 6 |
 | Labs and Utilities | 4 |
-| Forks | 35 |
+| Forks | 36 |
 
 ## Forks
 
@@ -85,6 +85,7 @@ Forked repositories are kept at the tail so Harzva-owned work and downloadable p
 
 | Repository | Language | Stars | Forks | Updated | Description |
 |---|---:|---:|---:|---:|---|
+| [hindsight](https://github.com/Harzva/hindsight) | Mixed | 0 | 0 | 2026-06-26 | Hindsight: Agent Memory That  Learns |
 | [make-agents-cheaper](https://github.com/Harzva/make-agents-cheaper) | Python | 0 | 0 | 2026-06-25 | Rust CLI for improving prompt cache hit rate in coding-agent workflows |
 | [Oh-Reflective-loop-skills](https://github.com/Harzva/Oh-Reflective-loop-skills) | Python | 0 | 0 | 2026-06-22 |  |
 | [image2_UI_skill](https://github.com/Harzva/image2_UI_skill) | Mixed | 0 | 0 | 2026-05-12 |  |
@@ -129,5 +130,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-06-26T07:02:44.086904+00:00`.
+- Generated at: `2026-06-27T06:36:17.811500+00:00`.
 - Private repositories omitted from this public output: `13`.
