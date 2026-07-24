@@ -46,7 +46,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 |---|---|---:|---:|---:|---:|---:|
 | [elsevier-skills-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 50.8 MB | 1 | 2026-06-18 |
 | [ieee-skills-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/ieee-skills-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 88.5 MB | 1 | 2026-06-18 |
-| [journal-skill-suites-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 142.1 MB | 1 | 2026-06-18 |
+| [journal-skill-suites-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 142.1 MB | 2 | 2026-06-18 |
 | [main-figure-site-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/main-figure-site-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 4.5 MB | 1 | 2026-06-18 |
 | [codex-managed-agent-1.0.3.vsix](https://github.com/Harzva/codex-managed-agent/releases/download/v1.0.3/codex-managed-agent-1.0.3.vsix) | [codex-managed-agent](https://github.com/Harzva/codex-managed-agent) | Release Asset | [v1.0.3](https://github.com/Harzva/codex-managed-agent/releases/tag/v1.0.3) | 457.8 KB | 5 | 2026-04-16 |
 
@@ -130,5 +130,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-07-23T06:10:03.540093+00:00`.
+- Generated at: `2026-07-24T06:04:27.990261+00:00`.
 - Private repositories omitted from this public output: `13`.
