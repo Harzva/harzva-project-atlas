@@ -6,7 +6,7 @@ A download-first MetaRepo for Harzva: APK, EXE, desktop builds, CLI packages, re
 
 [Live Atlas](https://harzva.github.io/harzva-project-atlas/) | [Release Hub](https://github.com/Harzva/harzva-release-hub) | [Pages Hub](https://github.com/Harzva/harzva-pages-hub) | [Skills Hub](https://github.com/Harzva/harzva-skills-hub)
 
-![Downloads](https://img.shields.io/badge/artifacts-16-111111?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-7-F05A28?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-25-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
+![Downloads](https://img.shields.io/badge/artifacts-16-111111?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-8-F05A28?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-26-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
 
 </div>
 
@@ -54,6 +54,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 
 | Repository | Latest release | Published | Description |
 |---|---:|---:|---|
+| [LDB](https://github.com/Harzva/LDB) | [v0.1.0](https://github.com/Harzva/LDB/releases/tag/v0.1.0) | 2026-07-24 | Logits DeBiasing for Few-Shot Learning: audited code, protocol, evidence, and project page |
 | [github-management-suite](https://github.com/Harzva/github-management-suite) | [v0.2.0](https://github.com/Harzva/github-management-suite/releases/tag/v0.2.0) | 2026-05-14 | Cross-platform Codex skill for full GitHub repository lifecycle management |
 | [learn-likecc](https://github.com/Harzva/learn-likecc) | [v1.0.2-likecode](https://github.com/Harzva/learn-likecc/releases/tag/v1.0.2-likecode) | 2026-04-07 | Claude Code 源码逆向恢复项目 \| Source Map 逆向 · 架构分析 · 可运行版本 \| 1900+ 文件 · 51万行代码 · 12章节课程 |
 
@@ -70,7 +71,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | Category | Repositories |
 |---|---:|
 | AI Agents and LLM Systems | 15 |
-| Pages and Live Demos | 18 |
+| Pages and Live Demos | 19 |
 | Release-ready Apps and Tools | 1 |
 | Skills and Agent Workflows | 26 |
 | Developer Tools and Infrastructure | 1 |
@@ -130,5 +131,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-07-24T06:04:27.990261+00:00`.
+- Generated at: `2026-07-25T05:52:16.600565+00:00`.
 - Private repositories omitted from this public output: `13`.
