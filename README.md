@@ -6,7 +6,7 @@ A download-first MetaRepo for Harzva: APK, EXE, desktop builds, CLI packages, re
 
 [Live Atlas](https://harzva.github.io/harzva-project-atlas/) | [Release Hub](https://github.com/Harzva/harzva-release-hub) | [Pages Hub](https://github.com/Harzva/harzva-pages-hub) | [Skills Hub](https://github.com/Harzva/harzva-skills-hub)
 
-![Downloads](https://img.shields.io/badge/artifacts-16-111111?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-8-F05A28?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-26-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
+![Downloads](https://img.shields.io/badge/artifacts-16-111111?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-8-F05A28?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-27-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
 
 </div>
 
@@ -71,7 +71,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | Category | Repositories |
 |---|---:|
 | AI Agents and LLM Systems | 15 |
-| Pages and Live Demos | 19 |
+| Pages and Live Demos | 20 |
 | Release-ready Apps and Tools | 1 |
 | Skills and Agent Workflows | 26 |
 | Developer Tools and Infrastructure | 1 |
@@ -131,5 +131,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-07-27T06:41:46.262530+00:00`.
+- Generated at: `2026-07-28T06:03:03.332912+00:00`.
 - Private repositories omitted from this public output: `13`.
