@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-08-05T06:00:52.972723+00:00",
+    "generatedAt": "2026-08-06T06:04:16.892383+00:00",
     "owner": "Harzva",
     "mode": "atlas",
     "publicRepositories": 112,
@@ -459,8 +459,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-05T04:29:08Z",
-        "updatedAt": "2026-08-05T04:29:12Z",
+        "pushedAt": "2026-08-06T04:31:00Z",
+        "updatedAt": "2026-08-06T04:31:48Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -493,8 +493,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-05T03:41:38Z",
-        "updatedAt": "2026-08-05T03:41:42Z",
+        "pushedAt": "2026-08-06T03:47:36Z",
+        "updatedAt": "2026-08-06T03:47:50Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -546,8 +546,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-04T06:06:29Z",
-        "updatedAt": "2026-08-04T06:07:19Z",
+        "pushedAt": "2026-08-05T06:02:56Z",
+        "updatedAt": "2026-08-05T06:04:33Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -580,8 +580,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-04T06:04:51Z",
-        "updatedAt": "2026-08-04T06:05:39Z",
+        "pushedAt": "2026-08-05T06:02:45Z",
+        "updatedAt": "2026-08-05T06:02:56Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -614,8 +614,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-04T06:03:58Z",
-        "updatedAt": "2026-08-04T06:04:24Z",
+        "pushedAt": "2026-08-05T06:00:53Z",
+        "updatedAt": "2026-08-05T06:01:40Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1346,6 +1346,40 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "codexhome-manager",
+        "nameWithOwner": "Harzva/codexhome-manager",
+        "url": "https://github.com/Harzva/codexhome-manager",
+        "description": "Manage multiple CODEX_HOME directories as isolated Skill Spaces and specialized Agent Households.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Rust"
+        },
+        "pushedAt": "2026-08-05T16:24:29Z",
+        "updatedAt": "2026-07-27T18:50:00Z",
+        "createdAt": "2026-07-22T09:13:29Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "agent-orchestration",
+          "codex",
+          "codex-cli",
+          "developer-tools",
+          "rust",
+          "tauri"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codexhome-manager",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
+      {
         "name": "harzva-skills-hub",
         "nameWithOwner": "Harzva/harzva-skills-hub",
         "url": "https://github.com/Harzva/harzva-skills-hub",
@@ -1356,8 +1390,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-04T06:04:21Z",
-        "updatedAt": "2026-08-04T06:04:53Z",
+        "pushedAt": "2026-08-05T06:03:37Z",
+        "updatedAt": "2026-08-05T06:03:57Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1416,40 +1450,6 @@
             "path": "/"
           },
           "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "codexhome-manager",
-        "nameWithOwner": "Harzva/codexhome-manager",
-        "url": "https://github.com/Harzva/codexhome-manager",
-        "description": "Manage multiple CODEX_HOME directories as isolated Skill Spaces and specialized Agent Households.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Rust"
-        },
-        "pushedAt": "2026-07-29T16:24:31Z",
-        "updatedAt": "2026-07-27T18:50:00Z",
-        "createdAt": "2026-07-22T09:13:29Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [
-          "agent-orchestration",
-          "codex",
-          "codex-cli",
-          "developer-tools",
-          "rust",
-          "tauri"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codexhome-manager",
-        "pages": {
-          "enabled": false
         },
         "latestRelease": null
       },
@@ -4119,8 +4119,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-05T04:29:08Z",
-      "updatedAt": "2026-08-05T04:29:12Z",
+      "pushedAt": "2026-08-06T04:31:00Z",
+      "updatedAt": "2026-08-06T04:31:48Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4634,8 +4634,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-04T06:04:51Z",
-      "updatedAt": "2026-08-04T06:05:39Z",
+      "pushedAt": "2026-08-05T06:02:45Z",
+      "updatedAt": "2026-08-05T06:02:56Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4668,8 +4668,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-04T06:03:58Z",
-      "updatedAt": "2026-08-04T06:04:24Z",
+      "pushedAt": "2026-08-05T06:00:53Z",
+      "updatedAt": "2026-08-05T06:01:40Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4702,8 +4702,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-04T06:06:29Z",
-      "updatedAt": "2026-08-04T06:07:19Z",
+      "pushedAt": "2026-08-05T06:02:56Z",
+      "updatedAt": "2026-08-05T06:04:33Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4736,8 +4736,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-04T06:04:21Z",
-      "updatedAt": "2026-08-04T06:04:53Z",
+      "pushedAt": "2026-08-05T06:03:37Z",
+      "updatedAt": "2026-08-05T06:03:57Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4887,8 +4887,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-05T03:41:38Z",
-      "updatedAt": "2026-08-05T03:41:42Z",
+      "pushedAt": "2026-08-06T03:47:36Z",
+      "updatedAt": "2026-08-06T03:47:50Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5499,8 +5499,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-05T03:41:38Z",
-      "updatedAt": "2026-08-05T03:41:42Z",
+      "pushedAt": "2026-08-06T03:47:36Z",
+      "updatedAt": "2026-08-06T03:47:50Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5936,7 +5936,7 @@
       "primaryLanguage": {
         "name": "Rust"
       },
-      "pushedAt": "2026-07-29T16:24:31Z",
+      "pushedAt": "2026-08-05T16:24:29Z",
       "updatedAt": "2026-07-27T18:50:00Z",
       "createdAt": "2026-07-22T09:13:29Z",
       "defaultBranchRef": {
@@ -6279,8 +6279,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-04T06:04:21Z",
-      "updatedAt": "2026-08-04T06:04:53Z",
+      "pushedAt": "2026-08-05T06:03:37Z",
+      "updatedAt": "2026-08-05T06:03:57Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
