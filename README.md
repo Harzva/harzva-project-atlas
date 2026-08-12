@@ -132,5 +132,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-08-11T04:39:50.375491+00:00`.
+- Generated at: `2026-08-12T05:01:54.254855+00:00`.
 - Private repositories omitted from this public output: `13`.
