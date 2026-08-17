@@ -6,7 +6,7 @@ A download-first MetaRepo for Harzva: APK, EXE, desktop builds, CLI packages, re
 
 [Live Atlas](https://harzva.github.io/harzva-project-atlas/) | [Release Hub](https://github.com/Harzva/harzva-release-hub) | [Pages Hub](https://github.com/Harzva/harzva-pages-hub) | [Skills Hub](https://github.com/Harzva/harzva-skills-hub)
 
-![Downloads](https://img.shields.io/badge/artifacts-16-111111?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-8-F05A28?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-29-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
+![Downloads](https://img.shields.io/badge/artifacts-16-111111?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-8-F05A28?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-30-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
 
 </div>
 
@@ -73,9 +73,9 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | AI Agents and LLM Systems | 16 |
 | Pages and Live Demos | 21 |
 | Release-ready Apps and Tools | 1 |
-| Skills and Agent Workflows | 26 |
+| Skills and Agent Workflows | 29 |
 | Developer Tools and Infrastructure | 1 |
-| Apps and Interfaces | 1 |
+| Apps and Interfaces | 2 |
 | Knowledge Maps and Learning | 3 |
 | Research, Data, and Experiments | 6 |
 | Labs and Utilities | 4 |
@@ -87,7 +87,7 @@ Forked repositories are kept at the tail so Harzva-owned work and downloadable p
 
 | Repository | Language | Stars | Forks | Updated | Description |
 |---|---:|---:|---:|---:|---|
-| [GroupX](https://github.com/Harzva/GroupX) | TypeScript | 0 | 0 | 2026-08-14 | Local group chat broker for Codex, Grok, and Kimi CLIs |
+| [GroupX](https://github.com/Harzva/GroupX) | TypeScript | 0 | 0 | 2026-08-17 | Local group chat broker for Codex, Grok, and Kimi CLIs |
 | [hindsight](https://github.com/Harzva/hindsight) | Mixed | 0 | 0 | 2026-06-26 | Hindsight: Agent Memory That  Learns |
 | [make-agents-cheaper](https://github.com/Harzva/make-agents-cheaper) | Python | 0 | 0 | 2026-06-25 | Rust CLI for improving prompt cache hit rate in coding-agent workflows |
 | [Oh-Reflective-loop-skills](https://github.com/Harzva/Oh-Reflective-loop-skills) | Python | 0 | 0 | 2026-06-22 |  |
@@ -133,5 +133,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-08-16T03:59:33.434470+00:00`.
+- Generated at: `2026-08-17T04:01:57.355682+00:00`.
 - Private repositories omitted from this public output: `13`.
