@@ -73,13 +73,13 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | AI Agents and LLM Systems | 16 |
 | Pages and Live Demos | 21 |
 | Release-ready Apps and Tools | 1 |
-| Skills and Agent Workflows | 29 |
+| Skills and Agent Workflows | 30 |
 | Developer Tools and Infrastructure | 1 |
 | Apps and Interfaces | 2 |
 | Knowledge Maps and Learning | 3 |
 | Research, Data, and Experiments | 6 |
 | Labs and Utilities | 4 |
-| Forks | 37 |
+| Forks | 38 |
 
 ## Forks
 
@@ -87,6 +87,7 @@ Forked repositories are kept at the tail so Harzva-owned work and downloadable p
 
 | Repository | Language | Stars | Forks | Updated | Description |
 |---|---:|---:|---:|---:|---|
+| [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Mixed | 0 | 0 | 2026-08-18 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
 | [GroupX](https://github.com/Harzva/GroupX) | TypeScript | 0 | 0 | 2026-08-17 | Local group chat broker for Codex, Grok, and Kimi CLIs |
 | [hindsight](https://github.com/Harzva/hindsight) | Mixed | 0 | 0 | 2026-06-26 | Hindsight: Agent Memory That  Learns |
 | [make-agents-cheaper](https://github.com/Harzva/make-agents-cheaper) | Python | 0 | 0 | 2026-06-25 | Rust CLI for improving prompt cache hit rate in coding-agent workflows |
@@ -133,5 +134,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-08-18T03:57:56.164770+00:00`.
+- Generated at: `2026-08-19T03:58:29.855693+00:00`.
 - Private repositories omitted from this public output: `13`.
