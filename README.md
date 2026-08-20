@@ -6,7 +6,7 @@ A download-first MetaRepo for Harzva: APK, EXE, desktop builds, CLI packages, re
 
 [Live Atlas](https://harzva.github.io/harzva-project-atlas/) | [Release Hub](https://github.com/Harzva/harzva-release-hub) | [Pages Hub](https://github.com/Harzva/harzva-pages-hub) | [Skills Hub](https://github.com/Harzva/harzva-skills-hub)
 
-![Downloads](https://img.shields.io/badge/artifacts-16-111111?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-8-F05A28?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-30-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
+![Downloads](https://img.shields.io/badge/artifacts-18-111111?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-10-F05A28?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-30-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
 
 </div>
 
@@ -22,7 +22,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | [gitmarket-ios-simulator.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-ios-simulator.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.8](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.8) | 652.8 KB | 0 | 2026-06-21 |
 | [mobilecode-ios-simulator-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-ios-simulator-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.4 MB | 3 | 2026-05-12 |
 | [mobilecode-site-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 219.6 KB | 3 | 2026-05-12 |
-| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.6 MB | 58 | 2026-05-12 |
+| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.6 MB | 61 | 2026-05-12 |
 
 ### Desktop Apps
 
@@ -50,6 +50,18 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | [main-figure-site-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/main-figure-site-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 4.5 MB | 1 | 2026-06-18 |
 | [codex-managed-agent-1.0.3.vsix](https://github.com/Harzva/codex-managed-agent/releases/download/v1.0.3/codex-managed-agent-1.0.3.vsix) | [codex-managed-agent](https://github.com/Harzva/codex-managed-agent) | Release Asset | [v1.0.3](https://github.com/Harzva/codex-managed-agent/releases/tag/v1.0.3) | 457.8 KB | 5 | 2026-04-16 |
 
+### Learning and Knowledge
+
+| Download | Repo | Kind | Version | Size | Downloads | Published |
+|---|---|---:|---:|---:|---:|---:|
+| [harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz](https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz) | [dsh-obsidian](https://github.com/Harzva/dsh-obsidian) | Archive | [v0.1.0-alpha.0](https://github.com/Harzva/dsh-obsidian/releases/tag/v0.1.0-alpha.0) | 20.9 KB | 0 | 2026-08-19 |
+
+### General Utilities
+
+| Download | Repo | Kind | Version | Size | Downloads | Published |
+|---|---|---:|---:|---:|---:|---:|
+| [harness-flow-dsh-uvm-0.1.0-alpha.1.tgz](https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz) | [dsh-uvm](https://github.com/Harzva/dsh-uvm) | Archive | [v0.1.0-alpha.1](https://github.com/Harzva/dsh-uvm/releases/tag/v0.1.0-alpha.1) | 20.5 KB | 1 | 2026-08-19 |
+
 ## Release Pages Without Direct Assets
 
 | Repository | Latest release | Published | Description |
@@ -73,13 +85,13 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | AI Agents and LLM Systems | 16 |
 | Pages and Live Demos | 21 |
 | Release-ready Apps and Tools | 1 |
-| Skills and Agent Workflows | 30 |
+| Skills and Agent Workflows | 33 |
 | Developer Tools and Infrastructure | 1 |
 | Apps and Interfaces | 2 |
 | Knowledge Maps and Learning | 3 |
 | Research, Data, and Experiments | 6 |
 | Labs and Utilities | 4 |
-| Forks | 38 |
+| Forks | 39 |
 
 ## Forks
 
@@ -87,7 +99,8 @@ Forked repositories are kept at the tail so Harzva-owned work and downloadable p
 
 | Repository | Language | Stars | Forks | Updated | Description |
 |---|---:|---:|---:|---:|---|
-| [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Mixed | 0 | 0 | 2026-08-18 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [deepseek-harness](https://github.com/Harzva/deepseek-harness) | Mixed | 0 | 0 | 2026-08-20 | DeepSeek Harness: Everything is a Plugin. |
+| [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 0 | 0 | 2026-08-19 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
 | [GroupX](https://github.com/Harzva/GroupX) | TypeScript | 0 | 0 | 2026-08-17 | Local group chat broker for Codex, Grok, and Kimi CLIs |
 | [hindsight](https://github.com/Harzva/hindsight) | Mixed | 0 | 0 | 2026-06-26 | Hindsight: Agent Memory That  Learns |
 | [make-agents-cheaper](https://github.com/Harzva/make-agents-cheaper) | Python | 0 | 0 | 2026-06-25 | Rust CLI for improving prompt cache hit rate in coding-agent workflows |
@@ -134,5 +147,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-08-19T03:58:29.855693+00:00`.
+- Generated at: `2026-08-20T03:58:49.683979+00:00`.
 - Private repositories omitted from this public output: `13`.
