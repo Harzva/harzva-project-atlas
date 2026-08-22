@@ -6,7 +6,7 @@ A download-first MetaRepo for Harzva: APK, EXE, desktop builds, CLI packages, re
 
 [Live Atlas](https://harzva.github.io/harzva-project-atlas/) | [Release Hub](https://github.com/Harzva/harzva-release-hub) | [Pages Hub](https://github.com/Harzva/harzva-pages-hub) | [Skills Hub](https://github.com/Harzva/harzva-skills-hub)
 
-![Downloads](https://img.shields.io/badge/artifacts-20-111111?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-12-F05A28?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-30-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
+![Downloads](https://img.shields.io/badge/artifacts-22-111111?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-14-F05A28?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-30-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
 
 </div>
 
@@ -22,7 +22,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | [gitmarket-ios-simulator.zip](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-ios-simulator.zip) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.8](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.8) | 652.8 KB | 0 | 2026-06-21 |
 | [mobilecode-ios-simulator-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-ios-simulator-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.4 MB | 3 | 2026-05-12 |
 | [mobilecode-site-v0.1.0.zip](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip) | [mobilecode](https://github.com/Harzva/mobilecode) | Archive | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 219.6 KB | 3 | 2026-05-12 |
-| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.6 MB | 61 | 2026-05-12 |
+| [mobilecode-v0.1.0.apk](https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk) | [mobilecode](https://github.com/Harzva/mobilecode) | Android APK | [v0.1.0](https://github.com/Harzva/mobilecode/releases/tag/v0.1.0) | 50.6 MB | 62 | 2026-05-12 |
 
 ### Desktop Apps
 
@@ -61,6 +61,8 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 
 | Download | Repo | Kind | Version | Size | Downloads | Published |
 |---|---|---:|---:|---:|---:|---:|
+| [harness-flow-dsh-voice-0.1.0.tgz](https://github.com/Harzva/dsh-voice/releases/download/v0.1.0/harness-flow-dsh-voice-0.1.0.tgz) | [dsh-voice](https://github.com/Harzva/dsh-voice) | Archive | [v0.1.0](https://github.com/Harzva/dsh-voice/releases/tag/v0.1.0) | 46.3 KB | 0 | 2026-08-21 |
+| [dsh-control-plane-0.1.0.tgz](https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz) | [dsh-control-plane](https://github.com/Harzva/dsh-control-plane) | Archive | [v0.1.0](https://github.com/Harzva/dsh-control-plane/releases/tag/v0.1.0) | 104.3 KB | 2 | 2026-08-21 |
 | [dsh-j-space-0.1.0.tgz](https://github.com/Harzva/dsh-j-space/releases/download/v0.1.0/dsh-j-space-0.1.0.tgz) | [dsh-j-space](https://github.com/Harzva/dsh-j-space) | Archive | [v0.1.0](https://github.com/Harzva/dsh-j-space/releases/tag/v0.1.0) | 86.9 KB | 6 | 2026-08-20 |
 | [harness-flow-dsh-uvm-0.1.0-alpha.1.tgz](https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz) | [dsh-uvm](https://github.com/Harzva/dsh-uvm) | Archive | [v0.1.0-alpha.1](https://github.com/Harzva/dsh-uvm/releases/tag/v0.1.0-alpha.1) | 20.5 KB | 1 | 2026-08-19 |
 
@@ -87,7 +89,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | AI Agents and LLM Systems | 16 |
 | Pages and Live Demos | 21 |
 | Release-ready Apps and Tools | 1 |
-| Skills and Agent Workflows | 35 |
+| Skills and Agent Workflows | 38 |
 | Developer Tools and Infrastructure | 1 |
 | Apps and Interfaces | 2 |
 | Knowledge Maps and Learning | 3 |
@@ -101,7 +103,7 @@ Forked repositories are kept at the tail so Harzva-owned work and downloadable p
 
 | Repository | Language | Stars | Forks | Updated | Description |
 |---|---:|---:|---:|---:|---|
-| [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 0 | 0 | 2026-08-20 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 0 | 0 | 2026-08-21 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
 | [deepseek-harness](https://github.com/Harzva/deepseek-harness) | Mixed | 0 | 0 | 2026-08-20 | DeepSeek Harness: Everything is a Plugin. |
 | [GroupX](https://github.com/Harzva/GroupX) | TypeScript | 0 | 0 | 2026-08-17 | Local group chat broker for Codex, Grok, and Kimi CLIs |
 | [hindsight](https://github.com/Harzva/hindsight) | Mixed | 0 | 0 | 2026-06-26 | Hindsight: Agent Memory That  Learns |
@@ -149,5 +151,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-08-21T04:00:43.483212+00:00`.
+- Generated at: `2026-08-22T03:56:01.555718+00:00`.
 - Private repositories omitted from this public output: `13`.
