@@ -45,7 +45,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 
 | Download | Repo | Kind | Version | Size | Downloads | Published |
 |---|---|---:|---:|---:|---:|---:|
-| [dsh-agent-project-sync-0.1.0.tgz](https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz) | [dsh-agent-project-sync](https://github.com/Harzva/dsh-agent-project-sync) | Archive | [v0.1.0](https://github.com/Harzva/dsh-agent-project-sync/releases/tag/v0.1.0) | 13.7 KB | 0 | 2026-08-23 |
+| [dsh-agent-project-sync-0.1.0.tgz](https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz) | [dsh-agent-project-sync](https://github.com/Harzva/dsh-agent-project-sync) | Archive | [v0.1.0](https://github.com/Harzva/dsh-agent-project-sync/releases/tag/v0.1.0) | 13.7 KB | 28 | 2026-08-23 |
 | [elsevier-skills-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 50.8 MB | 1 | 2026-06-18 |
 | [ieee-skills-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/ieee-skills-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 88.5 MB | 1 | 2026-06-18 |
 | [journal-skill-suites-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 142.1 MB | 2 | 2026-06-18 |
@@ -96,7 +96,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | Knowledge Maps and Learning | 3 |
 | Research, Data, and Experiments | 6 |
 | Labs and Utilities | 4 |
-| Forks | 39 |
+| Forks | 40 |
 
 ## Forks
 
@@ -104,9 +104,10 @@ Forked repositories are kept at the tail so Harzva-owned work and downloadable p
 
 | Repository | Language | Stars | Forks | Updated | Description |
 |---|---:|---:|---:|---:|---|
-| [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 0 | 0 | 2026-08-21 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 0 | 0 | 2026-08-24 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
 | [deepseek-harness](https://github.com/Harzva/deepseek-harness) | Mixed | 0 | 0 | 2026-08-20 | DeepSeek Harness: Everything is a Plugin. |
 | [GroupX](https://github.com/Harzva/GroupX) | TypeScript | 0 | 0 | 2026-08-17 | Local group chat broker for Codex, Grok, and Kimi CLIs |
+| [opensurge](https://github.com/Harzva/opensurge) | Mixed | 0 | 0 | 2026-07-29 | Retro game engine inspired by 16-bit Sonic games. |
 | [hindsight](https://github.com/Harzva/hindsight) | Mixed | 0 | 0 | 2026-06-26 | Hindsight: Agent Memory That  Learns |
 | [make-agents-cheaper](https://github.com/Harzva/make-agents-cheaper) | Python | 0 | 0 | 2026-06-25 | Rust CLI for improving prompt cache hit rate in coding-agent workflows |
 | [Oh-Reflective-loop-skills](https://github.com/Harzva/Oh-Reflective-loop-skills) | Python | 0 | 0 | 2026-06-22 |  |
@@ -152,5 +153,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-08-24T04:05:31.849367+00:00`.
+- Generated at: `2026-08-25T03:59:05.731566+00:00`.
 - Private repositories omitted from this public output: `13`.
