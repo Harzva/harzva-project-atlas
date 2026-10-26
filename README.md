@@ -6,7 +6,7 @@ A download-first MetaRepo for Harzva: APK, EXE, desktop builds, CLI packages, re
 
 [Live Atlas](https://harzva.github.io/harzva-project-atlas/) | [Release Hub](https://github.com/Harzva/harzva-release-hub) | [Pages Hub](https://github.com/Harzva/harzva-pages-hub) | [Skills Hub](https://github.com/Harzva/harzva-skills-hub)
 
-![Downloads](https://img.shields.io/badge/artifacts-40-111111?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-19-F05A28?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-32-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
+![Downloads](https://img.shields.io/badge/artifacts-42-111111?style=for-the-badge) ![Releases](https://img.shields.io/badge/releases-20-F05A28?style=for-the-badge) ![Pages](https://img.shields.io/badge/pages-32-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
 
 </div>
 
@@ -30,9 +30,9 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 |---|---|---:|---:|---:|---:|---:|
 | [desktop-plugin-catalog.json](https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/desktop-plugin-catalog.json) | [dsh-desktop-capture](https://github.com/Harzva/dsh-desktop-capture) | Release Asset | [v0.3.1](https://github.com/Harzva/dsh-desktop-capture/releases/tag/v0.3.1) | 37.3 KB | 5 | 2026-10-24 |
 | [openbot-dsh-desktop-capture-0.3.0.tgz](https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-desktop-capture-0.3.0.tgz) | [dsh-desktop-capture](https://github.com/Harzva/dsh-desktop-capture) | Archive | [v0.3.1](https://github.com/Harzva/dsh-desktop-capture/releases/tag/v0.3.1) | 222.2 KB | 4 | 2026-10-24 |
-| [openbot-dsh-desktop-capture-0.3.1.tgz](https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-desktop-capture-0.3.1.tgz) | [dsh-desktop-capture](https://github.com/Harzva/dsh-desktop-capture) | Archive | [v0.3.1](https://github.com/Harzva/dsh-desktop-capture/releases/tag/v0.3.1) | 217.6 KB | 4 | 2026-10-24 |
+| [openbot-dsh-desktop-capture-0.3.1.tgz](https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-desktop-capture-0.3.1.tgz) | [dsh-desktop-capture](https://github.com/Harzva/dsh-desktop-capture) | Archive | [v0.3.1](https://github.com/Harzva/dsh-desktop-capture/releases/tag/v0.3.1) | 217.6 KB | 5 | 2026-10-24 |
 | [openbot-dsh-superterminal-0.2.0.tgz](https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-superterminal-0.2.0.tgz) | [dsh-desktop-capture](https://github.com/Harzva/dsh-desktop-capture) | Archive | [v0.3.1](https://github.com/Harzva/dsh-desktop-capture/releases/tag/v0.3.1) | 2.1 KB | 3 | 2026-10-24 |
-| [openbot-dsh-superterminal-0.2.1.tgz](https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-superterminal-0.2.1.tgz) | [dsh-desktop-capture](https://github.com/Harzva/dsh-desktop-capture) | Archive | [v0.3.1](https://github.com/Harzva/dsh-desktop-capture/releases/tag/v0.3.1) | 2.3 KB | 4 | 2026-10-24 |
+| [openbot-dsh-superterminal-0.2.1.tgz](https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-superterminal-0.2.1.tgz) | [dsh-desktop-capture](https://github.com/Harzva/dsh-desktop-capture) | Archive | [v0.3.1](https://github.com/Harzva/dsh-desktop-capture/releases/tag/v0.3.1) | 2.3 KB | 5 | 2026-10-24 |
 | [SHA256SUMS](https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/SHA256SUMS) | [dsh-desktop-capture](https://github.com/Harzva/dsh-desktop-capture) | Release Asset | [v0.3.1](https://github.com/Harzva/dsh-desktop-capture/releases/tag/v0.3.1) | 412 B | 0 | 2026-10-24 |
 | [gitmarket-macos-aarch64.tar.gz](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-macos-aarch64.tar.gz) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.8](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.8) | 14.8 MB | 1 | 2026-06-21 |
 | [gitmarket-macos-x86_64.tar.gz](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-macos-x86_64.tar.gz) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.8](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.8) | 14.8 MB | 0 | 2026-06-21 |
@@ -44,7 +44,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 
 | Download | Repo | Kind | Version | Size | Downloads | Published |
 |---|---|---:|---:|---:|---:|---:|
-| [dsh-cli-store-0.3.0.tgz](https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz) | [dsh-cli-store](https://github.com/Harzva/dsh-cli-store) | Archive | [v0.3.0](https://github.com/Harzva/dsh-cli-store/releases/tag/v0.3.0) | 24.2 KB | 3743 | 2026-08-20 |
+| [dsh-cli-store-0.3.0.tgz](https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz) | [dsh-cli-store](https://github.com/Harzva/dsh-cli-store) | Archive | [v0.3.0](https://github.com/Harzva/dsh-cli-store/releases/tag/v0.3.0) | 24.2 KB | 3785 | 2026-08-20 |
 | [gitmarket-linux-x86_64.tar.gz](https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-linux-x86_64.tar.gz) | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Archive | [v0.3.8](https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.8) | 16.1 MB | 0 | 2026-06-21 |
 
 ### AI Agent Systems
@@ -61,7 +61,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 | [release-manifest.json](https://github.com/Harzva/awesome-bot/releases/download/v0.5.0/release-manifest.json) | [awesome-bot](https://github.com/Harzva/awesome-bot) | Release Asset | [v0.5.0](https://github.com/Harzva/awesome-bot/releases/tag/v0.5.0) | 307.3 KB | 2 | 2026-10-20 |
 | [RELEASE_NOTES.md](https://github.com/Harzva/awesome-bot/releases/download/v0.5.0/RELEASE_NOTES.md) | [awesome-bot](https://github.com/Harzva/awesome-bot) | Release Asset | [v0.5.0](https://github.com/Harzva/awesome-bot/releases/tag/v0.5.0) | 1.6 KB | 2 | 2026-10-20 |
 | [SHA256SUMS](https://github.com/Harzva/awesome-bot/releases/download/v0.5.0/SHA256SUMS) | [awesome-bot](https://github.com/Harzva/awesome-bot) | Release Asset | [v0.5.0](https://github.com/Harzva/awesome-bot/releases/tag/v0.5.0) | 888 B | 2 | 2026-10-20 |
-| [dsh-agent-project-sync-0.1.0.tgz](https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz) | [dsh-agent-project-sync](https://github.com/Harzva/dsh-agent-project-sync) | Archive | [v0.1.0](https://github.com/Harzva/dsh-agent-project-sync/releases/tag/v0.1.0) | 13.7 KB | 3928 | 2026-08-23 |
+| [dsh-agent-project-sync-0.1.0.tgz](https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz) | [dsh-agent-project-sync](https://github.com/Harzva/dsh-agent-project-sync) | Archive | [v0.1.0](https://github.com/Harzva/dsh-agent-project-sync/releases/tag/v0.1.0) | 13.7 KB | 3970 | 2026-08-23 |
 | [elsevier-skills-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 50.8 MB | 11 | 2026-06-18 |
 | [ieee-skills-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/ieee-skills-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 88.5 MB | 6 | 2026-06-18 |
 | [journal-skill-suites-v2.7.0.zip](https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip) | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Archive | [v2.7.0](https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0) | 142.1 MB | 4 | 2026-06-18 |
@@ -72,17 +72,19 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 
 | Download | Repo | Kind | Version | Size | Downloads | Published |
 |---|---|---:|---:|---:|---:|---:|
-| [harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz](https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz) | [dsh-obsidian](https://github.com/Harzva/dsh-obsidian) | Archive | [v0.1.0-alpha.0](https://github.com/Harzva/dsh-obsidian/releases/tag/v0.1.0-alpha.0) | 20.9 KB | 3420 | 2026-08-19 |
+| [harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz](https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz) | [dsh-obsidian](https://github.com/Harzva/dsh-obsidian) | Archive | [v0.1.0-alpha.0](https://github.com/Harzva/dsh-obsidian/releases/tag/v0.1.0-alpha.0) | 20.9 KB | 3462 | 2026-08-19 |
 
 ### General Utilities
 
 | Download | Repo | Kind | Version | Size | Downloads | Published |
 |---|---|---:|---:|---:|---:|---:|
-| [harzva-dsh-session-folders-0.1.0.tgz](https://github.com/Harzva/dsh-session-folders/releases/download/v0.1.0/harzva-dsh-session-folders-0.1.0.tgz) | [dsh-session-folders](https://github.com/Harzva/dsh-session-folders) | Archive | [v0.1.0](https://github.com/Harzva/dsh-session-folders/releases/tag/v0.1.0) | 5.4 KB | 8 | 2026-09-03 |
+| [harzva-dsh-wechat-usechat-0.1.0.tgz](https://github.com/Harzva/dsh-wechat-usechat/releases/download/v0.1.0/harzva-dsh-wechat-usechat-0.1.0.tgz) | [dsh-wechat-usechat](https://github.com/Harzva/dsh-wechat-usechat) | Archive | [v0.1.0](https://github.com/Harzva/dsh-wechat-usechat/releases/tag/v0.1.0) | 9.7 KB | 1 | 2026-10-26 |
+| [SHA256SUMS](https://github.com/Harzva/dsh-wechat-usechat/releases/download/v0.1.0/SHA256SUMS) | [dsh-wechat-usechat](https://github.com/Harzva/dsh-wechat-usechat) | Release Asset | [v0.1.0](https://github.com/Harzva/dsh-wechat-usechat/releases/tag/v0.1.0) | 102 B | 0 | 2026-10-26 |
+| [harzva-dsh-session-folders-0.1.0.tgz](https://github.com/Harzva/dsh-session-folders/releases/download/v0.1.0/harzva-dsh-session-folders-0.1.0.tgz) | [dsh-session-folders](https://github.com/Harzva/dsh-session-folders) | Archive | [v0.1.0](https://github.com/Harzva/dsh-session-folders/releases/tag/v0.1.0) | 5.4 KB | 11 | 2026-09-03 |
 | [harness-flow-dsh-voice-0.1.0.tgz](https://github.com/Harzva/dsh-voice/releases/download/v0.1.0/harness-flow-dsh-voice-0.1.0.tgz) | [dsh-voice](https://github.com/Harzva/dsh-voice) | Archive | [v0.1.0](https://github.com/Harzva/dsh-voice/releases/tag/v0.1.0) | 46.3 KB | 8 | 2026-08-21 |
-| [dsh-control-plane-0.1.0.tgz](https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz) | [dsh-control-plane](https://github.com/Harzva/dsh-control-plane) | Archive | [v0.1.0](https://github.com/Harzva/dsh-control-plane/releases/tag/v0.1.0) | 104.3 KB | 3072 | 2026-08-21 |
+| [dsh-control-plane-0.1.0.tgz](https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz) | [dsh-control-plane](https://github.com/Harzva/dsh-control-plane) | Archive | [v0.1.0](https://github.com/Harzva/dsh-control-plane/releases/tag/v0.1.0) | 104.3 KB | 3114 | 2026-08-21 |
 | [dsh-j-space-0.1.0.tgz](https://github.com/Harzva/dsh-j-space/releases/download/v0.1.0/dsh-j-space-0.1.0.tgz) | [dsh-j-space](https://github.com/Harzva/dsh-j-space) | Archive | [v0.1.0](https://github.com/Harzva/dsh-j-space/releases/tag/v0.1.0) | 86.9 KB | 8 | 2026-08-20 |
-| [harness-flow-dsh-uvm-0.1.0-alpha.1.tgz](https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz) | [dsh-uvm](https://github.com/Harzva/dsh-uvm) | Archive | [v0.1.0-alpha.1](https://github.com/Harzva/dsh-uvm/releases/tag/v0.1.0-alpha.1) | 20.5 KB | 3956 | 2026-08-19 |
+| [harness-flow-dsh-uvm-0.1.0-alpha.1.tgz](https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz) | [dsh-uvm](https://github.com/Harzva/dsh-uvm) | Archive | [v0.1.0-alpha.1](https://github.com/Harzva/dsh-uvm/releases/tag/v0.1.0-alpha.1) | 20.5 KB | 3999 | 2026-08-19 |
 
 ## Release Pages Without Direct Assets
 
@@ -107,7 +109,7 @@ Downloads are grouped by repository function so APK, EXE, package, archive, and 
 |---|---:|
 | AI Agents and LLM Systems | 19 |
 | Pages and Live Demos | 22 |
-| Release-ready Apps and Tools | 2 |
+| Release-ready Apps and Tools | 3 |
 | Skills and Agent Workflows | 46 |
 | Developer Tools and Infrastructure | 1 |
 | Apps and Interfaces | 2 |
@@ -177,5 +179,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-10-25T08:25:24.515853+00:00`.
+- Generated at: `2026-10-26T08:54:35.866686+00:00`.
 - Private repositories omitted from this public output: `13`.
